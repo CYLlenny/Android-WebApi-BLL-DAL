@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=(LocalDb)\\MSSQLLocalDB;Database=WebApi_0713;Persist Security Info=True;User ID=sa;Password=sa;"
+  }
+}
